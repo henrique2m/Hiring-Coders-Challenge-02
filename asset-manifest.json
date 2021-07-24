@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Hiring-Coders-Challenge-02/static/js/main.77ae6875.chunk.js",
+    "main.js.map": "/Hiring-Coders-Challenge-02/static/js/main.77ae6875.chunk.js.map",
+    "runtime-main.js": "/Hiring-Coders-Challenge-02/static/js/runtime-main.6c6b1cb2.js",
+    "runtime-main.js.map": "/Hiring-Coders-Challenge-02/static/js/runtime-main.6c6b1cb2.js.map",
+    "static/js/2.3bfd9fda.chunk.js": "/Hiring-Coders-Challenge-02/static/js/2.3bfd9fda.chunk.js",
+    "static/js/2.3bfd9fda.chunk.js.map": "/Hiring-Coders-Challenge-02/static/js/2.3bfd9fda.chunk.js.map",
+    "index.html": "/Hiring-Coders-Challenge-02/index.html",
+    "static/js/2.3bfd9fda.chunk.js.LICENSE.txt": "/Hiring-Coders-Challenge-02/static/js/2.3bfd9fda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c6b1cb2.js",
+    "static/js/2.3bfd9fda.chunk.js",
+    "static/js/main.77ae6875.chunk.js"
+  ]
+}
